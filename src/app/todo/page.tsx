@@ -279,13 +279,8 @@ export default function TodoList() {
     return (
         <section className="pt-16 md:pt-20 pb-16 md:pb-20 min-h-screen bg-slate-950">
             <div className="max-w-xl mx-auto px-5">
-
-                <p className="text-xs font-semibold tracking-[0.22em] text-sky-400 uppercase mb-2 text-center">
-                    APP ROUTER BACKEND & CLIENT FRONTEND
-                </p>
-
                 <h1 className="text-3xl md:text-4xl font-semibold tracking-tight text-slate-50 text-center mb-10">
-                    Twoja Lista Zadań (To-Do)
+                    Your TODO List
                 </h1>
 
                 <div className="mb-8">
